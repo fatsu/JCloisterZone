@@ -1,7 +1,6 @@
 package com.jcloisterzone;
 
-import java.util.ArrayList;
-import java.util.List;
+import static com.jcloisterzone.ui.I18nUtils._;
 
 import com.jcloisterzone.game.Capability;
 import com.jcloisterzone.game.capability.AbbeyCapability;
@@ -37,8 +36,6 @@ import com.jcloisterzone.game.capability.TowerCapability;
 import com.jcloisterzone.game.capability.TunnelCapability;
 import com.jcloisterzone.game.capability.WagonCapability;
 import com.jcloisterzone.game.capability.WindRoseCapability;
-
-import static com.jcloisterzone.ui.I18nUtils._;
 
 @SuppressWarnings("unchecked")
 public enum Expansion {
@@ -85,8 +82,8 @@ public enum Expansion {
     WIND_ROSE("WR", _("The Wind Rose"), new Class[] { WindRoseCapability.class }),
     GERMAN_MONASTERIES("GM", _("The German Monasteries"), new Class[] { GermanMonasteriesCapability.class }),
     CASTLES("CA", _("Castles in Germany"), false),
-    HALFINGS_I("H1", _("Halfings") + " I" , false),
-    HALFINGS_II("H2", _("Halfings") + " ÏI", false),
+    HALFLINGS_I("H1", _("Halfings") + " I" , false),
+    HALFLINGS_II("H2", _("Halfings") + " II", false),
 
     //minis expansion line
     FLIER("FL", "#1 - " + _("The Flier"), new Class[] { FlierCapability.class }),
