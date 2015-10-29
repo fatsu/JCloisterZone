@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-22 13:03+0200\n"
-"PO-Revision-Date: 2015-10-22 13:10+0100\n"
+"PO-Revision-Date: 2015-10-29 22:48+0100\n"
 "Last-Translator: Roman <farin@farin.cz>\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.7.6\n"
 
 #: src/main/java/com/jcloisterzone/bugreport/BugReportPanel.java:34
 msgid ""
@@ -164,12 +164,12 @@ msgstr "De Duitse Kloosters"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:87
 msgid "Castles in Germany"
-msgstr ""
+msgstr "Kastelen in Duitsland"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:88
 #: src/main/java/com/jcloisterzone/Expansion.java:89
 msgid "Halfings"
-msgstr ""
+msgstr "Halflingen"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:92
 msgid "The Flier"
@@ -209,11 +209,11 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/Expansion.java:103
 msgid "Russian Promos"
-msgstr ""
+msgstr "Russische promo's"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:104
 msgid "Darmstadt Promo"
-msgstr ""
+msgstr "Darmstadt Promo"
 
 #: src/main/java/com/jcloisterzone/feature/City.java:65
 msgid "City"
@@ -755,7 +755,7 @@ msgstr "JCloisterzone "
 #: src/main/java/com/jcloisterzone/ui/dialog/TileDistributionWindow.java:46
 #: src/main/java/com/jcloisterzone/ui/MenuBar.java:55
 msgid "Tile Distribution"
-msgstr ""
+msgstr "Tegel Verdeling"
 
 #: src/main/java/com/jcloisterzone/ui/dialog/HelpDialog.java:37
 #: src/main/java/com/jcloisterzone/ui/MenuBar.java:56
